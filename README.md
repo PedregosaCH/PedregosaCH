@@ -9,13 +9,13 @@ De momento este es solo un REEADME de ejemplo, no es la version final, pues esto
 
 | Repositorio                          | Descripción                                                                 | Enlace |
 |--------------------------------------|-----------------------------------------------------------------------------|--------|
-| **Ejercicios_ampliacion_programacion** | Ejercicios de ampliación y refuerzo de conceptos de programación            | [Ver repositorio](https://github.com/PedregosaCH/Ejercicios_ampliacion_programacion) |
+| **Ejercicios_ampliacion_programacion** | Ejercicios de ampliación de programación                                  | [Ver repositorio](https://github.com/PedregosaCH/Ejercicios_ampliacion_programacion) |
 | **practica-Daniel-Pedregosa**        | Práctica individual/personal del curso                                      | [Ver repositorio](https://github.com/PedregosaCH/practica-Daniel-Pedregosa) |
 | **DAM_entregas**                     | Entregas oficiales del módulo DAM                                           | [Ver repositorio](https://github.com/PedregosaCH/DAM_entregas) |
-| **ProyectFail**                      | Proyecto experimental / aprendizaje por fracaso 😅                          | [Ver repositorio](https://github.com/PedregosaCH/ProyectFail) |
+| **ProyectFail**                      | Proyecto de Ampliación de programacion de arreglo de código                 | [Ver repositorio](https://github.com/PedregosaCH/ProyectFail) |
 | **DAMtri1**                          | Trabajos y proyectos del primer trimestre de DAM                            | [Ver repositorio](https://github.com/PedregosaCH/DAMtri1) |
-| **R.E.P.O**                          | Repositorio personal de organización y recursos (Repository of Everything Personal Organizer?) | [Ver repositorio](https://github.com/PedregosaCH/R.E.P.O) |
-| **programacion-entregas**            | Entregas del módulo de Programación                                         | [Ver repositorio](https://github.com/PedregosaCH/programacion-entregas) |
+| **R.E.P.O**                          | Repositorio para un ejercicio de Entornos de Desarrollo (no hay mucho)      | [Ver repositorio](https://github.com/PedregosaCH/R.E.P.O) |
+| **programacion-entregas**            | Entregas de Programación (clases)                                           | [Ver repositorio](https://github.com/PedregosaCH/programacion-entregas) |
 
 Gracias por pasarte a ver mis cositas.
 Siéntete libre de mirar cuanto quieras, pero no mucho que me da verguencita...
